@@ -1,4 +1,4 @@
-### Olá! Eu sou o Douglas Wesley de Oliveira 👋🏼
+### Olá! Eu sou o Douglas de Oliveira 👋🏼
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](0)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-w-a-d-5568991bb/)
