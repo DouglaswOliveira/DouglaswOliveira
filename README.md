@@ -6,9 +6,7 @@
 
 
 ![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=tokyonight)
-![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-![[DouglaswOliveira ](https://github.com/DouglaswOliveira)GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
+![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Tecnologias que eu uso no meu dia
 
