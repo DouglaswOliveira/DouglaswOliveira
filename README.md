@@ -6,7 +6,7 @@
 
 
 ![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -18,6 +18,8 @@
     <img align="center" alt="html15" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
 </div><br/>
 
 _"Tenho um forte desejo de mergulhar nos estudos e aprender profundamente o conceito de análise de dados, pois acredito que essa habilidade é essencial para desbravar insights valiosos e tomar decisões fundamentadas no mundo atual."_
