@@ -6,6 +6,7 @@
 
 
 ![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=tokyonight)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
