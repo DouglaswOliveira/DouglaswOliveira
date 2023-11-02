@@ -9,14 +9,14 @@
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglaswOliveira&theme=solarized_dark)](#)
 ![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html15" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="html15" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="html15" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>  
-    <img align="center" alt="html15" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="html15" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+## :books: Tecnologias que eu uso no meu dia ##
+| Badge | Descrição |
+| --- | --- |
+| [![logo html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#) | html5 |
+| [![logo css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) | css |
+| [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) | javascript |
+| [![logo typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) | typescript |
          
           
 </div><br/>
