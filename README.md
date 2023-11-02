@@ -6,8 +6,7 @@
 
 
 ![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=tokyonight)
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 ## Tecnologias que eu uso no meu dia
 
@@ -17,14 +16,7 @@ ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
     <img align="center" alt="html15" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>  
     <img align="center" alt="html15" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="center" alt="html15" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-          
-          
+         
           
 </div><br/>
 
