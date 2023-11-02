@@ -6,7 +6,7 @@
 
 ## :white_check_mark: Minhas estatísticas ##
 
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglaswOliveira&theme=solarized_dark)](#)
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=solarized_dark)](#)
 ![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
