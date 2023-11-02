@@ -1,6 +1,4 @@
-### Olá! Eu sou o Douglas de Oliveira 👋🏼![image](https://github.com/DouglaswOliveira/DouglaswOliveira/assets/138338738/f5e86869-e801-49fc-bf11-37930bb87a55)![image](https://github.com/DouglaswOliveira/DouglaswOliveira/assets/138338738/8d2b00c7-6c7e-4129-a315-aeab27de7be6)
-
-
+### Olá! Eu sou o Douglas W. de Oliveira 👋🏼
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](0)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-w-a-d-5568991bb/)
@@ -9,6 +7,7 @@
 
 ![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=tokyonight)
 [![DouglaswOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaswOliveira)](https://github.com/DouglaswOliveira/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
