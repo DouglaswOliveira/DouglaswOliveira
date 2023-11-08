@@ -29,5 +29,6 @@ _"Tenho um forte desejo de mergulhar nos estudos e aprender profundamente o conc
 ## Últimos videos:
 - [Projeto Futuro - Futuro](https://www.youtube.com)
 
-
+ ## Aqui está uma piada aleatória que vai fazer você rir!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 
