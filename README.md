@@ -13,10 +13,9 @@
 ## :books: Tecnologias que eu uso no meu dia ##
 | Badge | Descrição |
 | --- | --- |
-| [![logo html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#) | html5 |
-| [![logo css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) | css |
-| [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) | javascript |
-| [![logo typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) | typescript |
+| [![logo Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) | Python ( Estatística) |
+| [![logo SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#) | SQL (Dados) |
+(<!--https://dev.to/envoy_/150-badges-for-github-pnk#analytics-->)
          
           
 </div><br/>
@@ -28,7 +27,4 @@ _"Tenho um forte desejo de mergulhar nos estudos e aprender profundamente o conc
 
 ## Últimos videos:
 - [Projeto Futuro - Futuro](https://www.youtube.com)
-
- ## Aqui está uma piada aleatória que vai fazer você rir!
- ![Jokes Card](https://readme-jokes.vercel.app/api)
 
