@@ -25,7 +25,7 @@
 _"Tenho um forte desejo de mergulhar nos estudos e aprender profundamente o conceito de análise de dados, pois acredito que essa habilidade é essencial para desbravar insights valiosos e tomar decisões fundamentadas no mundo atual."_
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglaswOliveira&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglaswOliveira&layout=compact)-->
 
 ## Últimos videos:
 - [Projeto Futuro - Futuro](https://www.youtube.com)
