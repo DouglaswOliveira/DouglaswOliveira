@@ -15,7 +15,9 @@
 | --- | --- |
 | [![logo Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) | Python ( Estatística) |
 | [![logo SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#) | SQL (Dados) |
-(<!--https://dev.to/envoy_/150-badges-for-github-pnk#analytics-->)
+| [![logo Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](#) | Visualização (Dados) |
+
+<!--https://dev.to/envoy_/150-badges-for-github-pnk#analytics-->
          
           
 </div><br/>
