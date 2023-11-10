@@ -7,8 +7,10 @@
 ## :white_check_mark: Minhas estatísticas ##
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglaswOliveira&theme=solarized_dark)](#)
-https://starchart.cc/{username}/{repo}.svg
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+[![Card mostrando estatísticas do perfil](https://starchart.cc/{DouglaswOliveira}/{repo}.svg)](#)
+[![Card mostrando estatísticas do perfil](https://github-readme-stats.vercel.app/api/top-langs/?DouglaswOliveira={DouglaswOliveira}&theme=blue-green)](#)
+
+
 
 
 ## :books: Tecnologias que eu uso no meu dia ##
