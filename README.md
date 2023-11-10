@@ -7,7 +7,8 @@
 ## :white_check_mark: Minhas estatísticas ##
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglaswOliveira&theme=solarized_dark)](#)
-
+https://starchart.cc/{username}/{repo}.svg
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 
 
 ## :books: Tecnologias que eu uso no meu dia ##
@@ -16,6 +17,10 @@
 | [![logo Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) | Python ( Estatística) |
 | [![logo SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#) | SQL (Dados) |
 | [![logo Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](#) | Visualização (Dados) |
+| [![logo Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#) | Panilhas Eletrônicas |
+
+
+
 
 <!--https://dev.to/envoy_/150-badges-for-github-pnk#analytics-->
          
