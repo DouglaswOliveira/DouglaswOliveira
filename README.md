@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Douglas W. de Oliveira 👋🏼
 <div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglaswesley_oliveira/)
@@ -28,6 +28,31 @@
 
 
 <!--https://dev.to/envoy_/150-badges-for-github-pnk#analytics-->
+## 🌱 Atualmente estou aprendendo ...
+
+<!--- Ciências de Dados: Extração, armazenamento e análise de dados.
+- Big Data
+- Data Science
+- Business Intelligence
+- Machine Learning
+- Banco de Dados
+- Análise de Agrupamentos
+- Estatística
+- Data Mining
+- Reconhecimento de Padrões
+- Inteligência Artificial
+
+## 💻 Programas que estou aprendendo:
+
+- Python: Uma linguagem de programação amplamente utilizada em ciência de dados.
+- SQL: Uma linguagem de consulta estruturada usada para gerenciar e manipular bancos de dados.
+- TensorFlow: Uma biblioteca de código aberto para aprendizado de máquina.
+- Jupyter: Uma aplicação web que permite criar e compartilhar documentos que contêm código ao vivo, equações, visualizações e texto narrativo.
+- Pandas: Uma biblioteca de software escrita para a linguagem de programação Python para manipulação e análise de dados.
+- Scikit-Learn: Uma biblioteca de aprendizado de máquina para a linguagem de programação Python.
+- Redes Neurais: Um conjunto de algoritmos modelados vagamente após o cérebro humano, projetado para reconhecer padrões.
+- Visualização de Dados: A representação gráfica de informações e dados.-->
+
          
           
 </div><br/>
