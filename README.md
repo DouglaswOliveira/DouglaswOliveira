@@ -20,6 +20,7 @@
 ## :books: Tecnologias que eu uso no meu dia ##
 | Badge | Descrição |
 | --- | --- |
+| [[Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglaswesley_oliveira/)| Python ( Estatística) |
 | [![logo Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) | Python ( Estatística) |
 | [![logo SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#) | SQL (Dados) |
 | [![logo Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](#) | Visualização (Dados) |
