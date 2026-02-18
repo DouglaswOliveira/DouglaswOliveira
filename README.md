@@ -1,76 +1,71 @@
 Douglas W. de Oliveira 🤖
-Profissional de Segurança | Gestão de Riscos | Em transição para Engenharia de IA
+Engenharia de Inteligência Artificial | Gestão de Riscos | Sistemas Inteligentes
 
-Sou profissional com experiência sólida em Segurança Privada e Corporativa, atuando com
-gestão de riscos, controle de acesso, supervisão operacional e proteção patrimonial.
+Profissional com sólida experiência em Segurança Privada e Corporativa, atuando em gestão de riscos, supervisão operacional e proteção de ativos estratégicos.
 
-Atualmente, estou em transição estratégica para Engenharia de Inteligência Artificial,
-buscando integrar análise de dados, automação e modelos preditivos na tomada de decisões e proteção de ativos.
+Atualmente em transição estruturada para Engenharia de Inteligência Artificial, desenvolvendo soluções baseadas em dados, automação e modelos preditivos para otimizar decisões, reduzir riscos e gerar vantagem competitiva.
 
-🧠 Foco Profissional
+Minha atuação combina visão operacional, análise estratégica e tecnologia aplicada.
+
+🧠 Áreas de Atuação em IA
 
 Engenharia de Inteligência Artificial
 
-Machine Learning
+Machine Learning aplicado a negócios
 
-Automação com Python
+Modelagem estatística e preditiva
 
-Análise e Modelagem de Dados
+Automação inteligente com Python
 
-Sistemas Preditivos
+Análise e tratamento de dados
 
-IA aplicada à gestão de riscos
+Desenvolvimento de sistemas orientados a dados
 
-Integração entre processos, dados e tecnologia
+Integração entre processos operacionais e IA
 
-🔎 Competências em Desenvolvimento
+🔬 Competências Técnicas
 
-Fundamentos de Machine Learning
+Desenvolvimento de modelos supervisionados e não supervisionados
 
-Python para Data Science
+Manipulação de dados com Pandas e NumPy
 
-Manipulação e análise de dados (Pandas, NumPy)
+Fundamentos sólidos de estatística aplicada
 
-Construção de modelos preditivos
+Construção de pipelines de dados
 
-Estatística aplicada
+Criação e consumo de APIs
 
-APIs e integração de sistemas
+Versionamento e organização de projetos com Git
 
-Estruturação de projetos com Git
+Estruturação backend com Python
 
-Desenvolvimento backend com Python
+Ambiente Linux para desenvolvimento
 
-🧰 Tecnologias & Ferramentas
+🧰 Stack Tecnológica
 <div style="display: inline_block"><br> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div>
-📊 GitHub Analytics
-
-📘 Tecnologias Aplicadas
-Tecnologia	Aplicação
-Python	Automação e desenvolvimento de modelos
-Machine Learning	Construção de modelos preditivos
-SQL	Manipulação e análise de dados
-Git/GitHub	Versionamento e projetos colaborativos
-Linux	Ambiente de desenvolvimento
-🌱 Roadmap Atual
+📊 Aplicação Prática das Tecnologias
+Tecnologia	Aplicação Estratégica
+Python	Automação, engenharia de dados e modelos preditivos
+Machine Learning	Classificação, regressão e análise de padrões
+SQL	Estruturação, consulta e análise de bases de dados
+Git/GitHub	Versionamento, organização e documentação técnica
+Linux	Ambiente robusto para desenvolvimento e deploy
+🚀 Roadmap Técnico
 
 Machine Learning Avançado
 
-Deep Learning
+Deep Learning e Redes Neurais
 
 Engenharia de Dados
 
-IA aplicada a negócios
+Deploy de modelos (APIs e Cloud)
 
-Model Deployment (API e Cloud)
+MLOps e monitoramento de modelos
 
-MLOps
+IA aplicada à análise de risco e tomada de decisão
 
-🌐 Conecte-se
+🌐 Conexões Profissionais
 
+LinkedIn | GitHub | Instagram
 
-
-
-
-
-"Inteligência Artificial não é apenas código, é transformar dados em decisões estratégicas."
+"Engenharia de IA é transformar dados brutos em inteligência aplicada e decisões estratégicas."
