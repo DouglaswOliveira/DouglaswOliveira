@@ -1,71 +1,47 @@
 Douglas W. de Oliveira 🤖
-Engenharia de Inteligência Artificial | Gestão de Riscos | Sistemas Inteligentes
 
-Profissional com sólida experiência em Segurança Privada e Corporativa, atuando em gestão de riscos, supervisão operacional e proteção de ativos estratégicos.
+Engenharia de Inteligência Artificial | Cybersecurity & Gestão de Riscos | Sistemas Inteligentes
 
-Atualmente em transição estruturada para Engenharia de Inteligência Artificial, desenvolvendo soluções baseadas em dados, automação e modelos preditivos para otimizar decisões, reduzir riscos e gerar vantagem competitiva.
+Profissional com sólida experiência em Segurança Privada e Corporativa, agora atuando em Engenharia de IA e Machine Learning aplicada a dados, automação e segurança.
 
-Minha atuação combina visão operacional, análise estratégica e tecnologia aplicada.
+Desenvolvo projetos práticos de detecção de intrusão, análise de logs, dashboards e modelos preditivos, combinando visão operacional, análise estratégica e tecnologia aplicada para otimizar decisões e gerar resultados tangíveis.
 
-🧠 Áreas de Atuação em IA
+🧠 Áreas de Atuação
 
-Engenharia de Inteligência Artificial
-
-Machine Learning aplicado a negócios
-
-Modelagem estatística e preditiva
+Engenharia de IA e Machine Learning aplicada a negócios e operações
 
 Automação inteligente com Python
 
 Análise e tratamento de dados
 
-Desenvolvimento de sistemas orientados a dados
+Cybersecurity: pentest, monitoramento de rede, SOC e detecção de intrusão
 
-Integração entre processos operacionais e IA
+Desenvolvimento de sistemas orientados a dados e integração com processos operacionais
 
 🔬 Competências Técnicas
 
-Desenvolvimento de modelos supervisionados e não supervisionados
+Modelos supervisionados e não supervisionados (ML/Deep Learning)
 
-Manipulação de dados com Pandas e NumPy
+Pandas, NumPy e pipelines de dados
 
-Fundamentos sólidos de estatística aplicada
+Estatística aplicada e modelagem preditiva
 
-Construção de pipelines de dados
+APIs, deploy de modelos e MLOps
 
-Criação e consumo de APIs
+Git/GitHub, Linux e backend Python (Flask/Django)
 
-Versionamento e organização de projetos com Git
-
-Estruturação backend com Python
-
-Ambiente Linux para desenvolvimento
+Ferramentas de Cybersecurity: Wireshark, Nmap, Metasploit
 
 🧰 Stack Tecnológica
-<div style="display: inline_block"><br> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div>
-📊 Aplicação Prática das Tecnologias
-Tecnologia	Aplicação Estratégica
-Python	Automação, engenharia de dados e modelos preditivos
-Machine Learning	Classificação, regressão e análise de padrões
-SQL	Estruturação, consulta e análise de bases de dados
-Git/GitHub	Versionamento, organização e documentação técnica
-Linux	Ambiente robusto para desenvolvimento e deploy
-🚀 Roadmap Técnico
 
-Machine Learning Avançado
+Python • Linux • Git • SQL • Flask/Django • Pandas • NumPy • Machine Learning • Deep Learning
 
-Deep Learning e Redes Neurais
+🌐 Projetos & Portfólio
 
-Engenharia de Dados
+ML Intrusion Detection: detecção de padrões suspeitos em logs de rede
 
-Deploy de modelos (APIs e Cloud)
+Security Dashboard: visualização de alertas e métricas de segurança
 
-MLOps e monitoramento de modelos
+Automação de Processos: integração de dados e processos operacionais com Python
 
-IA aplicada à análise de risco e tomada de decisão
-
-🌐 Conexões Profissionais
-
-LinkedIn | GitHub | Instagram
-
-"Engenharia de IA é transformar dados brutos em inteligência aplicada e decisões estratégicas."
+“Transformo dados e sistemas complexos em inteligência aplicada para decisões estratégicas e segurança robusta.”
