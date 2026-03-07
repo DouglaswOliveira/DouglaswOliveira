@@ -54,7 +54,7 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglaswOliveira&layout=pie&theme=react" width="600"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=DouglaswOliveira&theme=react-dark&area=true" width="700"/>
 </p>
 
 # 🚀 Projetos em destaque
