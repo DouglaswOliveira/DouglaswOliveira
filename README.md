@@ -29,8 +29,8 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 # 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=radical" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglaswOliveira&layout=compact&theme=radical" width="350"/>
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=radical" width="350"/>
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs?username=DouglaswOliveira&layout=compact&theme=radical" width="350"/>
 </p>
 
 ---
