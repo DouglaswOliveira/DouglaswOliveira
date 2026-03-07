@@ -53,6 +53,14 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-95%25-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-85%25-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-75%25-FF3B30?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-90%25-34C759?style=for-the-badge"/>
+</p>
+
+
 # 🚀 Projetos em destaque
 
 ### 🛡 ML Intrusion Detection
