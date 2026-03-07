@@ -25,6 +25,7 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 </p>
 
 ---
+# 👀 Visitantes do perfil
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DouglaswOliveira&label=Visitors&color=FF6F00&labelColor=0C0C0C&style=flat-square" alt="Visitor Count"/>
 </p>
