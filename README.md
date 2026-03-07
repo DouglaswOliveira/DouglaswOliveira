@@ -91,7 +91,10 @@ Automação de tarefas operacionais e integração de dados com Python.
 
 # 🐍 Contribuições no GitHub
 
-![snake gif](https://github.com/DouglaswOliveira/DouglaswOliveira/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=radical" width="350"/>
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs?username=DouglaswOliveira&layout=compact&theme=radical" width="350"/>
+</p>
 
 ---
 
