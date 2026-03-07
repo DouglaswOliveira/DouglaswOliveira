@@ -1,6 +1,6 @@
 # 👨‍💻 Douglas W. de Oliveira
 
-💡 **Engenharia de IA | Automação com Python | Inteligência Estratégica | Segurança Empresarial**
+💡 **Gestor de Segurança Empresarial | Inteligência Estratégica orientada a Dados | Automação com IA**
 
 Transformando **dados, sistemas e operações complexas em inteligência aplicada para decisões estratégicas e segurança robusta.**
 
