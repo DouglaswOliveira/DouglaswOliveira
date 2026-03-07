@@ -21,7 +21,7 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 # ⌨️ Digitando código...
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Data+Automation+Specialist" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Data+Automation+Specialist" alt="Typing SVG"/>
 </p>
 
 ---
@@ -41,31 +41,14 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 
 ---
 
-# 🧠 Skills & Expertise
+# 🧠 Áreas de atuação
 
 <p align="center">
-  <b>Python</b>  
-  <img src="https://progress-bar.dev/95/?title=Python&color=00F7FF" width="500"/>
-</p>
-
-<p align="center">
-  <b>Machine Learning</b>  
-  <img src="https://progress-bar.dev/85/?title=ML&color=FF6F00" width="500"/>
-</p>
-
-<p align="center">
-  <b>Cybersecurity</b>  
-  <img src="https://progress-bar.dev/75/?title=Security&color=FF3B30" width="500"/>
-</p>
-
-<p align="center">
-  <b>Data Automation</b>  
-  <img src="https://progress-bar.dev/90/?title=Automation&color=34C759" width="500"/>
-</p>
-
-<p align="center">
-  <b>Django & Flask</b>  
-  <img src="https://progress-bar.dev/80/?title=Web&color=0C4B33" width="500"/>
+  <img src="https://img.shields.io/badge/AI%20Business-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python%20Automation-34C759?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-FF3B30?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Systems-5856D6?style=for-the-badge"/>
 </p>
 
 ---
@@ -86,11 +69,3 @@ Automação de tarefas operacionais, integração de dados e relatórios intelig
 # 🎯 Filosofia
 
 > Transformar dados em **inteligência estratégica**, automação em **eficiência operacional** e tecnologia em **segurança robusta**.
-
----
-
-# 👀 Visitantes do perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DouglaswOliveira&color=blue&style=for-the-badge" alt="Visitor Count"/>
-</p>
