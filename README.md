@@ -2,7 +2,7 @@
 
 💡 **Gestor de Segurança Empresarial | Inteligência Estratégica orientada a Dados | Automação com IA**
 
-Transformando **dados, sistemas e operações complexas em inteligência aplicada para decisões estratégicas e segurança robusta.**
+Transformando **dados, sistemas e operações complexas em inteligência aplicada** para decisões estratégicas e segurança robusta.
 
 ---
 
@@ -21,35 +21,8 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 # ⌨️ Digitando código...
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Data+Automation+Specialist">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Data+Automation+Specialist" alt="Typing SVG"/>
 </p>
-
----
-
-# 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=radical" width="350"/>
-  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs?username=DouglaswOliveira&layout=compact&theme=radical" width="350"/>
-</p>
-
----
-
-# 📈 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglaswOliveira&theme=react-dark&hide_border=true" width="750"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglaswOliveira&theme=radical" width="750"/>
-</p>
-
----
-
-# 🔥 Sequência de contribuições
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DouglaswOliveira&theme=radical)
 
 ---
 
@@ -68,43 +41,45 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 
 ---
 
-# 🧠 Áreas de atuação
+# 🧠 Skills & Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Business-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python%20Automation-34C759?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-FF3B30?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Systems-5856D6?style=for-the-badge"/>
+  <b>Python</b>  
+  <img src="https://progress-bar.dev/95/?title=Python&color=00F7FF" width="500"/>
+</p>
+
+<p align="center">
+  <b>Machine Learning</b>  
+  <img src="https://progress-bar.dev/85/?title=ML&color=FF6F00" width="500"/>
+</p>
+
+<p align="center">
+  <b>Cybersecurity</b>  
+  <img src="https://progress-bar.dev/75/?title=Security&color=FF3B30" width="500"/>
+</p>
+
+<p align="center">
+  <b>Data Automation</b>  
+  <img src="https://progress-bar.dev/90/?title=Automation&color=34C759" width="500"/>
+</p>
+
+<p align="center">
+  <b>Django & Flask</b>  
+  <img src="https://progress-bar.dev/80/?title=Web&color=0C4B33" width="500"/>
 </p>
 
 ---
 
-# 🚀 Projetos
+# 🚀 Projetos em destaque
 
-🛡 **ML Intrusion Detection**  
+### 🛡 ML Intrusion Detection
 Sistema de detecção de intrusão baseado em Machine Learning para identificar padrões suspeitos em logs de rede.
 
-📊 **Security Dashboard**  
-Dashboard para visualização de alertas e métricas de segurança.
+### 📊 Security Dashboard
+Dashboard moderno para visualização de alertas e métricas de segurança em tempo real.
 
-⚙ **Automação de Processos**  
-Automação de tarefas operacionais e integração de dados com Python.
-
----
-
-# 👀 Visitantes do perfil
-
-![Visitor Count](https://komarev.com/ghpvc/?username=DouglaswOliveira&color=blue)
-
----
-
-# 🐍 Contribuições no GitHub
-
-<p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=radical" width="350"/>
-  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs?username=DouglaswOliveira&layout=compact&theme=radical" width="350"/>
-</p>
+### ⚙ Automação de Processos
+Automação de tarefas operacionais, integração de dados e relatórios inteligentes com Python.
 
 ---
 
@@ -112,9 +87,10 @@ Automação de tarefas operacionais e integração de dados com Python.
 
 > Transformar dados em **inteligência estratégica**, automação em **eficiência operacional** e tecnologia em **segurança robusta**.
 
-# ⚡ Extras divertidos e engajados
+---
+
+# 👀 Visitantes do perfil
 
 <p align="center">
-  <img src="https://c.tenor.com/JY7z-7n4aWkAAAAC/code-programmer.gif" width="300"/>
-  <img src="https://c.tenor.com/Fjs3G8Y2t7kAAAAC/robot-ai.gif" width="300"/>
+  <img src="https://komarev.com/ghpvc/?username=DouglaswOliveira&color=blue&style=for-the-badge" alt="Visitor Count"/>
 </p>
