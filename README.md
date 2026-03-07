@@ -53,22 +53,17 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 
 ---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-12%20repos-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ML-5%20repos-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web-8%20repos-green?style=for-the-badge"/>
-</p>
 
 # 🚀 Projetos em destaque
+
+### ⚙ Automação de Processos
+Automação de tarefas operacionais, integração de dados e relatórios inteligentes com Python.
 
 ### 🛡 ML Intrusion Detection
 Sistema de detecção de intrusão baseado em Machine Learning para identificar padrões suspeitos em logs de rede.
 
 ### 📊 Security Dashboard
 Dashboard moderno para visualização de alertas e métricas de segurança em tempo real.
-
-### ⚙ Automação de Processos
-Automação de tarefas operacionais, integração de dados e relatórios inteligentes com Python.
 
 ---
 
