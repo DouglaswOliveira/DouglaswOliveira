@@ -37,7 +37,13 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 
 # 📈 Atividade no GitHub
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DouglaswOliveira&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglaswOliveira&theme=react-dark&hide_border=true" width="750"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglaswOliveira&theme=radical" width="750"/>
+</p>
 
 ---
 
@@ -49,24 +55,28 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 
 # 🧰 Stack Tecnológica
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
 # 🧠 Áreas de atuação
 
-✔ Inteligência Artificial aplicada a negócios  
-✔ Machine Learning e análise preditiva  
-✔ Automação com Python  
-✔ Cybersecurity e monitoramento de rede  
-✔ Desenvolvimento de sistemas orientados a dados  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Business-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python%20Automation-34C759?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-FF3B30?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Systems-5856D6?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -101,3 +111,10 @@ Automação de tarefas operacionais e integração de dados com Python.
 # 🎯 Filosofia
 
 > Transformar dados em **inteligência estratégica**, automação em **eficiência operacional** e tecnologia em **segurança robusta**.
+
+# ⚡ Extras divertidos e engajados
+
+<p align="center">
+  <img src="https://c.tenor.com/JY7z-7n4aWkAAAAC/code-programmer.gif" width="300"/>
+  <img src="https://c.tenor.com/Fjs3G8Y2t7kAAAAC/robot-ai.gif" width="300"/>
+</p>
