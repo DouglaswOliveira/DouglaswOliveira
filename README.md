@@ -24,10 +24,13 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&height=80&lines=Python+Developer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Data+Automation+Specialist&duration=2000&repeat=true" alt="Typing SVG"/>
 </p>
 ---
+
 # 👀 Visitantes do perfil
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DouglaswOliveira&label=Visitors&color=FF6F00&labelColor=0C0C0C&style=flat-square" alt="Visitor Count"/>
 </p>
+---
 
 # 🧰 Stack Tecnológica
 
