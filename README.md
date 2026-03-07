@@ -21,9 +21,8 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 # ⌨️ Digitando código...
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Data+Automation+Specialist" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&height=80&lines=Python+Developer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Data+Automation+Specialist&duration=2000&repeat=true" alt="Typing SVG"/>
 </p>
-
 ---
 # 👀 Visitantes do perfil
 <p align="center">
