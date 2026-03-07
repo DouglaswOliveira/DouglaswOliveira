@@ -54,7 +54,9 @@ Profissional com experiência em **Segurança Empresarial e Inteligência Operac
 ---
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=DouglaswOliveira&theme=react-dark&area=true" width="700"/>
+<img src="https://img.shields.io/badge/Python-12%20repos-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-5%20repos-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web-8%20repos-green?style=for-the-badge"/>
 </p>
 
 # 🚀 Projetos em destaque
