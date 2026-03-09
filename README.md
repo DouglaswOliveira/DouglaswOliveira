@@ -1,78 +1,119 @@
-# 👨‍💻 Douglas W. de Oliveira
+# 👨‍💻 Douglas Wesley de Oliveira
 
-💡 **Gestor de Segurança Empresarial | Inteligência Estratégica orientada a Dados | Automação com IA**
+💡 **Security & Data Intelligence Specialist | Python Developer | AI Automation**
 
-Transformando **dados, sistemas e operações complexas em inteligência aplicada** para decisões estratégicas e segurança robusta.
+Transformando **dados, operações e sistemas complexos em inteligência estratégica**, utilizando automação, análise de dados e inteligência artificial para fortalecer processos e segurança empresarial.
 
 ---
 
-# 💻 Sobre mim
+# 💼 Sobre
 
-Profissional com experiência em **Segurança Empresarial e Inteligência Operacional**, desenvolvendo soluções baseadas em:
+Profissional com atuação em **Segurança Empresarial, Inteligência Operacional e Automação de Processos**, desenvolvendo soluções tecnológicas orientadas a dados.
 
-- Inteligência Artificial
-- Machine Learning
+Experiência prática em:
+
 - Automação com Python
 - Análise de dados
+- Machine Learning
+- Inteligência Artificial aplicada
 - Cybersecurity
+- Desenvolvimento de sistemas
+
+Foco em **criar soluções eficientes, escaláveis e orientadas à tomada de decisão**.
 
 ---
 
-# ⌨️ Digitando código...
+# 🧰 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&height=80&lines=Python+Developer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Data+Automation+Specialist&duration=2000&repeat=true" alt="Typing SVG"/>
-</p>
----
 
-# 👀 Visitantes do perfil
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DouglaswOliveira&label=Visitors&color=FF6F00&labelColor=0C0C0C&style=flat-square" alt="Visitor Count"/>
-</p>
----
+<img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
 
-# 🧰 Stack Tecnológica
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 </p>
 
 ---
 
-# 🧠 Áreas de atuação
+# 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Business-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python%20Automation-34C759?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-FF3B30?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Systems-5856D6?style=for-the-badge"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
+# 📈 Linguagens mais usadas
 
-# 🚀 Projetos em destaque
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglaswOliveira&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Atividade de Contribuição
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=DouglaswOliveira&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Gráfico de Atividade
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglaswOliveira&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
 
 ### ⚙ Automação de Processos
-Automação de tarefas operacionais, integração de dados e relatórios inteligentes com Python.
+Automação de tarefas operacionais utilizando **Python**, integração de dados e geração de relatórios inteligentes.
+
+---
 
 ### 🛡 ML Intrusion Detection
-Sistema de detecção de intrusão baseado em Machine Learning para identificar padrões suspeitos em logs de rede.
+Projeto de **detecção de intrusão com Machine Learning**, capaz de identificar padrões suspeitos em logs de rede.
+
+---
 
 ### 📊 Security Dashboard
-Dashboard moderno para visualização de alertas e métricas de segurança em tempo real.
+Dashboard para **visualização de alertas e métricas de segurança em tempo real**, auxiliando na tomada de decisões estratégicas.
 
 ---
 
 # 🎯 Filosofia
 
-> Transformar dados em **inteligência estratégica**, automação em **eficiência operacional** e tecnologia em **segurança robusta**.
+> Transformar **dados em inteligência**,  
+> automação em **eficiência operacional**,  
+> e tecnologia em **segurança estratégica**.
+
+---
+
+# 👀 Visitantes do perfil
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DouglaswOliveira&label=Visitors&color=FF6F00&labelColor=0C0C0C&style=flat-square"/>
+
+</p>
