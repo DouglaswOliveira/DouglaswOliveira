@@ -45,26 +45,6 @@ Foco em **criar soluções eficientes, escaláveis e orientadas à tomada de dec
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DouglaswOliveira&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Linguagens mais usadas
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglaswOliveira&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 Atividade de Contribuição
 
 <p align="center">
