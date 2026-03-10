@@ -1,29 +1,29 @@
 # 👨‍💻 Douglas Wesley de Oliveira
 
-💡 **Security & Data Intelligence Specialist | Python Developer | AI Automation**
+💡 **Security Operations | Data Intelligence | Python Developer**
 
-Transformando **dados, operações e sistemas complexos em inteligência estratégica**, utilizando automação, análise de dados e inteligência artificial para fortalecer processos e segurança empresarial.
+Construindo conhecimento em **Segurança, Automação e Inteligência de Dados**, aplicando Python, análise de dados e inteligência artificial para criar soluções práticas e escaláveis.
 
 ---
 
-# 💼 Sobre
+# 📚 Sobre
 
-Profissional com atuação em **Segurança Empresarial, Inteligência Operacional e Automação de Processos**, desenvolvendo soluções tecnológicas orientadas a dados.
+Profissional em constante evolução, desenvolvendo um **estudo híbrido entre tecnologia e segurança**, com foco em transformar dados em soluções inteligentes.
 
-Experiência prática em:
+Atualmente estudando e desenvolvendo projetos em:
 
 - Automação com Python
 - Análise de dados
-- Machine Learning
 - Inteligência Artificial aplicada
 - Cybersecurity
-- Desenvolvimento de sistemas
+- Desenvolvimento Web com Django
+- Sistemas orientados a dados
 
-Foco em **criar soluções eficientes, escaláveis e orientadas à tomada de decisão**.
+Objetivo: **desenvolver soluções tecnológicas que apoiem decisões estratégicas e aumentem eficiência operacional.**
 
 ---
 
-# 🧰 Tecnologias e Ferramentas
+# 🧰 Tecnologias em Estudo
 
 <p align="center">
 
@@ -33,9 +33,9 @@ Foco em **criar soluções eficientes, escaláveis e orientadas à tomada de dec
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
@@ -45,7 +45,7 @@ Foco em **criar soluções eficientes, escaláveis e orientadas à tomada de dec
 
 ---
 
-# 🔥 Atividade de Contribuição
+# 🔥 Atividade de Desenvolvimento
 
 <p align="center">
 
@@ -65,28 +65,27 @@ Foco em **criar soluções eficientes, escaláveis e orientadas à tomada de dec
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Projetos de Estudo
 
-### ⚙ Automação de Processos
-Automação de tarefas operacionais utilizando **Python**, integração de dados e geração de relatórios inteligentes.
+### ⚙ Automação com Python
+Scripts para **automação de tarefas, coleta de dados e geração de relatórios automatizados**.
+
+### 📊 Análise de Dados
+Projetos focados em **processamento, análise e visualização de dados** utilizando Python.
+
+### 🛡 Segurança e Monitoramento
+Estudos voltados para **análise de logs, detecção de padrões e inteligência operacional aplicada à segurança**.
+
+### 🌐 Desenvolvimento Web
+Construção de aplicações utilizando **Python e Django**, com foco em sistemas orientados a dados.
 
 ---
 
-### 🛡 ML Intrusion Detection
-Projeto de **detecção de intrusão com Machine Learning**, capaz de identificar padrões suspeitos em logs de rede.
+# 🎯 Filosofia de Estudo
 
----
-
-### 📊 Security Dashboard
-Dashboard para **visualização de alertas e métricas de segurança em tempo real**, auxiliando na tomada de decisões estratégicas.
-
----
-
-# 🎯 Filosofia
-
-> Transformar **dados em inteligência**,  
-> automação em **eficiência operacional**,  
-> e tecnologia em **segurança estratégica**.
+> Aprender continuamente  
+> transformar conhecimento em projetos  
+> e projetos em soluções reais.
 
 ---
 
